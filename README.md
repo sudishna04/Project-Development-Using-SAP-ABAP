@@ -41,17 +41,7 @@ system, with all developers working on the same set of development objects at th
   * ABAP Programmer
   * SAP ABAP Technical Consultant
   
-### Opportunities in Companies ###
-  * SAP Labs
-  * Accenture
-  * Tata Consultancy Services
-  * Cognizant
-  * IBM Global Business Services
-  * Wipro
-  * Tech Mahindra
-  * L & T InfoTech
-  * Delloite
-  * KPMG
+
 
 ### References ###
   1. TAW10 ABAP Workbench Fundamentals – Part 1 by SAP INDIA.
